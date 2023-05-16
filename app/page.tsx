@@ -64,9 +64,7 @@ export default async function Home() {
           Add User +
         </button>
       </form>
-      <section className='w-auto min-w-[25%] max-w-min mx-auto space-y-6 flex flex-col items-stretch'>
-        <ViewData />
-      </section>
+      <section className='w-auto min-w-[25%] max-w-min mx-auto space-y-6 flex flex-col items-stretch'></section>
     </main>
   );
 }
