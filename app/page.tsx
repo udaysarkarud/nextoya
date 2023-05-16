@@ -1,5 +1,6 @@
+"use client";
+
 import { useState } from "react";
-import ViewData from "./view/page";
 
 interface FormData {
   username: string;
